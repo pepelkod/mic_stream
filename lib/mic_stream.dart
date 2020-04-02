@@ -35,3 +35,7 @@ Stream<MicEvent> get micEventsFFT {
   }
   return _micEvents;
 }
+
+String sayHello(){
+	return "Hello";
+}
